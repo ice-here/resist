@@ -10,7 +10,13 @@ This list is in its infancy. Please help us expand it with [Issues](https://gith
 **There is a lot to do and we know it's hard.**
 If you don't know where to start, we recommend giving your [representatives a call](#call-your-representatives). The more we let our elected officials know that this is important to us, the more pressure we put on them to change the system.
 
-### Call your representatives
+## Map of Customs and Border Patrol stations
+
+https://concentrationcamps.us/
+
+
+## Call your representatives
+
 Find out if you representatives stand for ending ICE’s practices at our doorstep. Ask about their specific, and actionable plans. Communicate your stand.
 
 Here’s a script (taken and modified from [here](https://breakice.org/), but feel free to speak from the heart:
@@ -38,12 +44,12 @@ And your legislators here:
 
 https://malegislature.gov/Search/FindMyLegislator
 
-### Attend a town hall
+## Attend a town hall
 Talk to your representatives in person.
 
 https://townhallproject.com/ 
 
-### Divest from the Prison Industrial Complex
+## Divest from the Prison Industrial Complex
 
 Joing existing campaigns (or start your own!) to divest from the Prison Industrial Complex.
 
@@ -53,7 +59,7 @@ Joing existing campaigns (or start your own!) to divest from the Prison Industri
 
 *Help us expand this list!*
 
-### Call for an end of 287(g) Agreement
+## Call for an end of 287(g) Agreement
 287(g) shifts immigrant enforcement duties on local agencies. 
 Boston does not have a 287(g) agreement, which is great! However, several places in Massachusetts do, and you might know people that live there and elsewhere with 287(g) agreements.
 
@@ -61,7 +67,7 @@ Check this map: https://www.ilrc.org/national-map-287g-agreements (archived at h
 
 Talk to your friends about calling their representatives and demanding an end to this agreement.
 
-### Protest
+## Protest
 Find the next action with your favorite group, or start your own action!
 
 [If Not Now Boston](https://www.facebook.com/ifnotnowboston/events/)
@@ -98,8 +104,14 @@ PRISON
 ```
 
 Feel free to modify the message so it makes sense for your location!
+
+## Donate!
+
+There are so many fantastic organizations and different ways to donate. 
+*List forthcoming*
+
   
-### Have questions?
+## Have questions?
 
 We would love to talk to you! You can email us at ourcommunityice@gmail.com
 
