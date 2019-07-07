@@ -10,12 +10,20 @@ Call your representative and find out if they stand for ending ICE’s practices
 
 Here’s a script (taken and modified from [here](https://breakice.org/), but feel free to speak from the heart:
 
-```Hi! My name is <YOUR NAME> and I’m from <CITY, STATE>. I’m calling to let <NAME OF REPRESENTATIVE> know that I strongly support Abolishing ICE, an agency with a long track record of human rights abuses. I would like <NAME OF REPRESENTATIVE> to voice their support for abolishing ICE, and hold the agency accountable for its inhumane and illegal actions.```
+```
+Hi! My name is <YOUR NAME> and I’m from <CITY, STATE>. 
+I’m calling to let <NAME OF REPRESENTATIVE> know that I strongly support Abolishing ICE, 
+an agency with a long track record of human rights abuses. 
+I would like <NAME OF REPRESENTATIVE> to voice their support for abolishing ICE, 
+and hold the agency accountable for its inhumane and illegal actions.
+```
 
 Contact Boston mayor’s office:
+```
 Martin J. Walsh
 617-635-4500 
 mayor@boston.gov
+```
 
 
 Find your state representatives is here:
