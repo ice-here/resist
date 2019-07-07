@@ -8,7 +8,7 @@ This list is in its infancy. Please help us expand it with [Issues](https://gith
 
 
 **There is a lot to do and we know it's hard.**
-If you don't know where to start, we recommend giving your [representatives a call](call-your-representatives). The more we let our elected officials know that this is important to us, the more we pressure them to change the system.
+If you don't know where to start, we recommend giving your [representatives a call](call-your-representatives). The more we let our elected officials know that this is important to us, the more pressure we put on them to change the system.
 
 ### Call your representatives
 Find out if you representatives stand for ending ICE’s practices at our doorstep. Ask about their specific, and actionable plans. Communicate your stand.
