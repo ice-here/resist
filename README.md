@@ -111,8 +111,8 @@ There are so many fantastic organizations and different ways to donate.
 *List forthcoming*
 
   
-## Have questions?
+## Have questions? Want to chat?
 
-We would love to talk to you! You can email us at ourcommunityice@gmail.com
+We would love to talk to you! You can email us at ourcommunityice@gmail.com and join our subreddit https://www.reddit.com/r/ICE_is_here/
 
 
