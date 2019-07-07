@@ -73,6 +73,31 @@ Find the next action with your favorite group, or start your own action!
 [DSA Boston](https://www.facebook.com/pg/BostonDSA/events/)
 
 *Help us expand this list!*
+
+
+### Print more posters!
+Spread awareness that ICE is right at our doorstep.
+https://github.com/ice-here/resist/blob/master/ice-poster.pdf
+
+Write in a custom message in the whitespace so that it reads:
+```
+YOU ARE
+A 15 MINUTE BIKERIDE
+AWAY FROM 
+AN I.C.E.
+PRISON
+```
+or 
+
+```
+YOU ARE
+3 MILES
+AWAY FROM 
+AN I.C.E.
+PRISON
+```
+
+Feel free to modify the message so it makes sense for your location!
   
 ### Have questions?
 
