@@ -3,7 +3,7 @@ ICE is a [brutal](https://www.bostonmagazine.com/news/2019/07/02/ayanna-pressley
 
 It’s time to act.
 
-This list is in its infancy. Please help us expand it with Issues and PRs.
+This list is in its infancy. Please help us expand it with [Issues](https://github.com/ice-here/resist/issues) and [PRs](https://github.com/ice-here/resist/pulls).
 
 ### Call your representatives
 Call your representative and find out if they stand for ending ICE’s practices at our doorstep. Ask about their specific actionable plans. Communicate your stand.
