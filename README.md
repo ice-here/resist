@@ -6,7 +6,7 @@ It’s time to act.
 This list is in its infancy. Please help us expand it with [Issues](https://github.com/ice-here/resist/issues) and [PRs](https://github.com/ice-here/resist/pulls).
 
 ### Call your representatives
-Call your representative and find out if they stand for ending ICE’s practices at our doorstep. Ask about their specific actionable plans. Communicate your stand.
+Find out if you representatives stand for ending ICE’s practices at our doorstep. Ask about their specific, and actionable plans. Communicate your stand.
 
 Here’s a script (taken and modified from [here](https://breakice.org/), but feel free to speak from the heart:
 
