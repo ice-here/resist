@@ -81,7 +81,7 @@ Find the next action with your favorite group, or start your own action!
 *Help us expand this list!*
 
 
-### Print more posters!
+## Print more posters!
 Spread awareness that ICE is right at our doorstep.
 https://github.com/ice-here/resist/blob/master/ice-poster.pdf
 
