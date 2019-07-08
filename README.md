@@ -4,13 +4,32 @@ ICE is a [brutal](https://www.bostonmagazine.com/news/2019/07/02/ayanna-pressley
 
 It’s time to act.
 
-This list is in its infancy. Please help us expand it with [Issues](https://github.com/ice-here/resist/issues) and [PRs](https://github.com/ice-here/resist/pulls).
-
+*This list is in its infancy. Please help us expand it with [Issues](https://github.com/ice-here/resist/issues) and [PRs](https://github.com/ice-here/resist/pulls).*
 
 **There is a lot to do and we know it's hard.**
-If you don't know where to start, we recommend giving your [representatives a call](#call-your-representatives). The more we let our elected officials know that this is important to us, the more pressure we put on them to change the system.
+If you don't know where to start, we recommend [calling your reps](#call-your-representatives). The more we let our elected officials know that this is important to us, the more pressure we put on them to change the system.
 
-## Map of Customs and Border Patrol stations
+## Table of contents
+- [ICE near you](#ice-in-boston)
+- [Call your representatives](#call-your-representatives)
+- [Divest from the prison industrial complex](#divest-from-the-prison-industrial-complex)
+- [End 287G](#call-for-an-end-of-287g)
+- [Protest](#protest)
+- [Print posters!](#print-more-posters)
+- [Donate](#donate)
+- [Attend a town hall](#attend-a-town-hall)
+- [Contact us](#have-questions-want-to-chat)
+
+
+## ICE in Boston
+
+Click the image for a live map:
+
+<a href="https://www.google.com/maps/dir//20+Bradston+St,+Boston,+MA+02118/@42.3384099,-71.0743283,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89e37a41f1bb07b7:0xb25dd55c9b895206!2m2!1d-71.0676979!2d42.3344088">
+  <img src="./suffolk-county-ice-map.jpg" alt="Click here for a live map"></a>
+
+
+See a more complete map of ICE prisons and Border Patrol stations:
 
 https://concentrationcamps.us/
 
@@ -44,10 +63,6 @@ And your legislators here:
 
 https://malegislature.gov/Search/FindMyLegislator
 
-## Attend a town hall
-Talk to your representatives in person.
-
-https://townhallproject.com/ 
 
 ## Divest from the Prison Industrial Complex
 
@@ -59,7 +74,7 @@ Joing existing campaigns (or start your own!) to divest from the Prison Industri
 
 *Help us expand this list!*
 
-## Call for an end of 287(g) Agreement
+## Call for an end of 287G
 
 287(g) shifts immigrant enforcement duties on local agencies. 
 Boston does not have a 287(g) agreement, which is great! However, several places in Massachusetts do, and you might know people that live there and elsewhere with 287(g) agreements.
@@ -116,6 +131,11 @@ Feel free to modify the message so it makes sense for your location!
 There are so many fantastic organizations and different ways to donate. 
 *List forthcoming*
 
+## Attend a town hall
+
+Talk to your representatives in person.
+
+https://townhallproject.com/ 
   
 ## Have questions? Want to chat?
 
