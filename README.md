@@ -116,3 +116,4 @@ There are so many fantastic organizations and different ways to donate.
 We would love to talk to you! You can email us at ourcommunityice@gmail.com and join our subreddit https://www.reddit.com/r/ICE_is_here/
 
 
+![poster in the wild](./poster.jpg)
