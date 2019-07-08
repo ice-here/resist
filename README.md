@@ -60,6 +60,7 @@ Joing existing campaigns (or start your own!) to divest from the Prison Industri
 *Help us expand this list!*
 
 ## Call for an end of 287(g) Agreement
+
 287(g) shifts immigrant enforcement duties on local agencies. 
 Boston does not have a 287(g) agreement, which is great! However, several places in Massachusetts do, and you might know people that live there and elsewhere with 287(g) agreements.
 
@@ -68,6 +69,7 @@ Check this map: https://www.ilrc.org/national-map-287g-agreements (archived at h
 Talk to your friends about calling their representatives and demanding an end to this agreement.
 
 ## Protest
+
 Find the next action with your favorite group, or start your own action!
 
 [If Not Now Boston](https://www.facebook.com/ifnotnowboston/events/)
@@ -82,8 +84,11 @@ Find the next action with your favorite group, or start your own action!
 
 
 ## Print more posters!
+
 Spread awareness that ICE is right at our doorstep.
+
 [big flyer](./ice-poster.pdf)
+
 [small doubled-up flyer](./ice-poster-smaller.pdf)
 
 Write in a custom message in the whitespace so that it reads:
