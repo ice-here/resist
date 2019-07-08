@@ -83,7 +83,8 @@ Find the next action with your favorite group, or start your own action!
 
 ## Print more posters!
 Spread awareness that ICE is right at our doorstep.
-https://github.com/ice-here/resist/blob/master/ice-poster.pdf
+[big flyer](./ice-poster.pdf)
+[small doubled-up flyer](./ice-poster-smaller.pdf)
 
 Write in a custom message in the whitespace so that it reads:
 ```
