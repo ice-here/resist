@@ -31,8 +31,7 @@ Click the image for a live map:
 
 See a more complete map of ICE prisons and Border Patrol stations:
 
-https://concentrationcamps.us/
-
+[concentrationcamps.us/](https://concentrationcamps.us/)
 
 ## Call your representatives
 
@@ -57,11 +56,11 @@ mayor@boston.gov
 
 Find your state representatives is here:
 
-https://www.house.gov/representatives/find-your-representative
+[house.gov/representatives/find-your-representative](https://www.house.gov/representatives/find-your-representative)
 
 And your legislators here:
 
-https://malegislature.gov/Search/FindMyLegislator
+[malegislature.gov/Search/FindMyLegislator](https://malegislature.gov/Search/FindMyLegislator)
 
 
 ## Divest from the Prison Industrial Complex
@@ -135,11 +134,11 @@ There are so many fantastic organizations and different ways to donate.
 
 Talk to your representatives in person.
 
-https://townhallproject.com/ 
+[townhallproject.com](https://townhallproject.com/)
   
 ## Have questions? Want to chat?
 
-We would love to talk to you! You can email us at ourcommunityice@gmail.com and join our subreddit https://www.reddit.com/r/ICE_is_here/
+We would love to talk to you! You can <a href="mailto:ourcommunityice@gmail.com">email us</a> and join our [subreddit](https://www.reddit.com/r/ICE_is_here/)
 
 
 ![poster in the wild](./poster.jpg)
