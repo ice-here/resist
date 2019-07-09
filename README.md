@@ -1,6 +1,5 @@
-# Resist I.C.E.
-
-<a href="https://ice-here.github.io/resist/">Click here for a mobile friendly site</a>
+# GET INVOLVED
+Follow these simple steps!
 
 ICE is a [brutal](https://www.bostonmagazine.com/news/2019/07/02/ayanna-pressley-migrant-detention-centers-texas/), [inhumane](https://www.theatlantic.com/politics/archive/2019/07/border-patrols-oversight-sick-migrant-children/593224/) [organization](https://www.aclu.org/press-releases/aclu-obtains-documents-showing-widespread-abuse-child-immigrants-us-custody), and [one of its detention centers is right at our doorstep](https://www.ice.gov/detention-facility/suffolk-county-house-corrections-south-bay). Let’s work to end its cruel practices and protect our neighbors.
 
@@ -9,7 +8,18 @@ It’s time to act.
 *This list is in its infancy. Please help us expand it with [Issues](https://github.com/ice-here/resist/issues) and [PRs](https://github.com/ice-here/resist/pulls).*
 
 **There is a lot to do and we know it's hard.**
-If you don't know where to start, we recommend [calling your reps](#call-your-representatives). The more we let our elected officials know that this is important to us, the more pressure we put on them to change the system.
+If you don't know where to start, we recommend [checking out our table of contents](#table-of-contents). Pick an item that speaks to you, go with it!
+
+## ICE in Boston
+
+Click the image for a live map:
+
+<a href="https://www.google.com/maps/dir//20+Bradston+St,+Boston,+MA+02118/@42.3384099,-71.0743283,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89e37a41f1bb07b7:0xb25dd55c9b895206!2m2!1d-71.0676979!2d42.3344088">
+  <img src="./suffolk-county-ice-map.jpg" alt="Click here for a live map"></a>
+
+See a more complete map of ICE prisons and Border Patrol stations:
+
+[concentrationcamps.us/](https://concentrationcamps.us/)
 
 ## Table of contents
 - [ICE near you](#ice-in-boston)
@@ -22,18 +32,6 @@ If you don't know where to start, we recommend [calling your reps](#call-your-re
 - [Attend a town hall](#attend-a-town-hall)
 - [Contact us](#have-questions-want-to-chat)
 
-
-## ICE in Boston
-
-Click the image for a live map:
-
-<a href="https://www.google.com/maps/dir//20+Bradston+St,+Boston,+MA+02118/@42.3384099,-71.0743283,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89e37a41f1bb07b7:0xb25dd55c9b895206!2m2!1d-71.0676979!2d42.3344088">
-  <img src="./suffolk-county-ice-map.jpg" alt="Click here for a live map"></a>
-
-
-See a more complete map of ICE prisons and Border Patrol stations:
-
-[concentrationcamps.us/](https://concentrationcamps.us/)
 
 ## Call your representatives
 
