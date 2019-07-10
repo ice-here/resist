@@ -1,5 +1,16 @@
 # GET INVOLVED
-Follow these simple steps!
+
+----------------------------------
+## &#x1F49B; &#x1F49C; UPCOMING ACTION HIGHLIGHT &#x1F49C; &#x1F49B;
+**FRIDAY JULY 12 7PM at STATE HOUSE STEPS**
+
+<a href="https://www.facebook.com/events/2399385257006613/">Boston Lights for Liberty: A Vigil to End Detention Camps</a>
+
+Don't live in Boston? Find events near you: https://www.lightsforliberty.org/localevents
+
+Join us!
+
+-----------------------------------
 
 ICE is a [brutal](https://www.bostonmagazine.com/news/2019/07/02/ayanna-pressley-migrant-detention-centers-texas/), [inhumane](https://www.theatlantic.com/politics/archive/2019/07/border-patrols-oversight-sick-migrant-children/593224/) [organization](https://www.aclu.org/press-releases/aclu-obtains-documents-showing-widespread-abuse-child-immigrants-us-custody), and [one of its detention centers is right at our doorstep](https://www.ice.gov/detention-facility/suffolk-county-house-corrections-south-bay). Let’s work to end its cruel practices and protect our neighbors.
 
