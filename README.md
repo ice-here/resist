@@ -2,7 +2,7 @@
 
 ----------------------------------
 ## &#x1F49B; &#x1F49C; UPCOMING ACTION HIGHLIGHT &#x1F49C; &#x1F49B;
-**FRIDAY JULY 12 7PM at STATE HOUSE STEPS**
+**FRIDAY JULY 12 7PM at the <a href="https://goo.gl/maps/5YGn1yWJzuRgDPok8">STATE HOUSE STEPS</a>**
 
 <a href="https://www.facebook.com/events/2399385257006613/">Boston Lights for Liberty: A Vigil to End Detention Camps</a>
 
