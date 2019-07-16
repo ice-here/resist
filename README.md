@@ -27,7 +27,7 @@ See a more complete map of ICE prisons and Border Patrol stations:
 - [End 287G](#call-for-an-end-of-287g)
 - [Protest](#protest)
 - [Print posters!](#print-more-posters)
-- [Donate](#donate)
+- [Donate to organizations](#donate)
 - [Attend a town hall](#attend-a-town-hall)
 - [Contact us](#have-questions-want-to-chat)
 
@@ -83,6 +83,8 @@ Talk to your friends about calling their representatives and demanding an end to
 
 ## Protest
 
+Sign up to hear news from Never Again Action: [https://www.neveragainaction.com/](https://www.neveragainaction.com/)
+
 Find the next action with your favorite group, or start your own action!
 
 [If Not Now Boston](https://www.facebook.com/ifnotnowboston/events/)
@@ -127,7 +129,11 @@ Feel free to modify the message so it makes sense for your location!
 ## Donate!
 
 There are so many fantastic organizations and different ways to donate. 
-*List forthcoming*
+
+- [RAICES: The refugee and Immigrant Center for Education and Legal Services](https://www.raicestexas.org/donate/)
+- [DMRS: Diocesan Migrant and Refugee Services](http://www.dmrs-ep.org/donate/)
+
+*list to be expanded*
 
 ## Attend a town hall
 
