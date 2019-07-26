@@ -135,12 +135,14 @@ Modify the message so it makes sense for your location!
 
 ## Donate!
 
-There are so many fantastic organizations and different ways to donate. 
+Feel free to shower these organizations with your money: 
 
-- [RAICES: The refugee and Immigrant Center for Education and Legal Services](https://www.raicestexas.org/donate/)
 - [DMRS: Diocesan Migrant and Refugee Services](http://www.dmrs-ep.org/donate/)
+- [No More Deaths](http://forms.nomoredeaths.org/donate-money/)
+- [RAICES: The refugee and Immigrant Center for Education and Legal Services](https://www.raicestexas.org/donate/)
 
 *list to be expanded*
+
 
 ## Attend a town hall
 
@@ -150,7 +152,6 @@ Talk to your representatives in person.
   
 ## Have questions? Want to chat?
 
-We would love to talk to you! You can <a href="mailto:ourcommunityice@gmail.com">email us</a> and join our [subreddit](https://www.reddit.com/r/ICE_is_here/)
-
+We would love to talk to you! You can <a href="mailto:ourcommunityice@gmail.com">email us</a> 
 
 ![poster in the wild](./poster.jpg)
