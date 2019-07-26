@@ -110,10 +110,7 @@ Find the next action with your favorite group, or start your own action!
 
 Spread awareness that ICE is right at our doorstep.
 
-[big flyer](./ice-poster.pdf)
-
-[small doubled-up flyer](./ice-poster-smaller.pdf)
-
+[big flyer](./ice-poster-smaller.pdf)
 Write in a custom message in the whitespace so that it reads:
 ```
 YOU ARE
