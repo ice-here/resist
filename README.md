@@ -108,28 +108,30 @@ Find the next action with your favorite group, or start your own action!
 
 ## Print more posters!
 
-Spread awareness that ICE is right at our doorstep.
+Spread awareness that ICE is right at our doorstep (in two flavors!)
 
-[big flyer](./ice-poster-smaller.pdf)
+[ready to go flyer](./ice-smaller-filled-in.pdf) for when you want to *flyer and go*
+
+[custom flyer](./ice-custom.pdf) for when you want a :sparkles:personal touch:sparkles: in your activism
+
 Write in a custom message in the whitespace so that it reads:
+
 ```
 YOU ARE
-A 15 MINUTE BIKERIDE
-AWAY FROM 
-AN I.C.E.
-PRISON
+A 15 MINUTE BIKERIDE 
+FROM AN 
+I.C.E. PRISON
 ```
 or 
 
 ```
 YOU ARE
 3 MILES
-AWAY FROM 
-AN I.C.E.
-PRISON
+FROM AN 
+I.C.E. PRISON
 ```
 
-Feel free to modify the message so it makes sense for your location!
+Modify the message so it makes sense for your location!
 
 ## Donate!
 
