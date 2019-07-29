@@ -1,14 +1,6 @@
-# Boston March Against Cages
+## Boston March Against Cages
 
-**RIGHT NOW!**
-
-[https://www.facebook.com/events/2363455290641713/](https://www.facebook.com/events/2363455290641713/)
-
-**Thomson Reuters: Cancel ICE Contracts Now!**
-
-Sea Green Playground, 21 Stillings St, Boston, MA 02210, USA
-
------------------------------------------------------------
+[Facebook event for more info](https://www.facebook.com/events/389885208308706/)
 
 **Sunday, August 4**
 1:30-4:30pm at the Boston Public Library steps
