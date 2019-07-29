@@ -5,9 +5,7 @@
 **Sunday, August 4**
 1:30-4:30pm at the Boston Public Library steps
 
-:fire::fire::fire::fire::fire::fire::fire:
-:fire::fire::fire::fire::fire::fire::fire:
-:fire::fire::fire::fire::fire::fire::fire:
+------------------------------------------------------------------------------
 
 # GET INVOLVED
 
