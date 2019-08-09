@@ -1,12 +1,3 @@
-## Boston March Against Cages
-
-[Facebook event for more info](https://www.facebook.com/events/389885208308706/)
-
-**Sunday, August 4**
-1:30-4:30pm at the Boston Public Library steps
-
-------------------------------------------------------------------------------
-
 # GET INVOLVED
 
 ICE is a [brutal](https://www.bostonmagazine.com/news/2019/07/02/ayanna-pressley-migrant-detention-centers-texas/), [inhumane](https://www.theatlantic.com/politics/archive/2019/07/border-patrols-oversight-sick-migrant-children/593224/) [organization](https://www.aclu.org/press-releases/aclu-obtains-documents-showing-widespread-abuse-child-immigrants-us-custody), and [one of its detention centers is right at our doorstep](https://www.ice.gov/detention-facility/suffolk-county-house-corrections-south-bay). Let’s work to end its cruel practices and protect our neighbors.
