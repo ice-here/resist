@@ -1,10 +1,11 @@
-# TEACH-IN AGAINST ICE
+# Never Again is Now: #NoBusinessWithICE
 
-Sunday, August 18, 1-4pm
+Thursday, September 5, 5-8pm
 
-$5-30 sliding donation (no one turned away for lack of funds)
 
-Event is at capacity, sign up for the waitlist [https://actionnetwork.org/forms/waitlist-teach-in-against-ice](https://actionnetwork.org/forms/waitlist-teach-in-against-ice)
+Wear white, meet at the [Holocaust Memorial](https://www.google.com/maps/place/The+New+England+Holocaust+Memorial/@42.361251,-71.0594404,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370858cbe12f9:0xa66bc66e06095dc8!8m2!3d42.3612471!4d-71.0572517) 
+
+Event details here: [https://www.facebook.com/events/489373111624120/](https://www.facebook.com/events/489373111624120/)
 
 ----------------------------------
 
